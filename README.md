@@ -1,5 +1,8 @@
 markdown2gdocs
 ---
+## screenshot
+
+![demo of markdown into google docs](/etc/screenshot.png)
 
 ## disclaimer
 
